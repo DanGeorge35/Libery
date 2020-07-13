@@ -1,2 +1,2 @@
 # Librery
-Php Simple, and easy to use library
+This is a php simple, and easy to use library
