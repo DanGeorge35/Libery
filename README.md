@@ -1,2 +1,2 @@
-# Libery
-This is a php simple, and easy to use library
+# Libery ( php library)
+This is a simple, and easy to use php library
